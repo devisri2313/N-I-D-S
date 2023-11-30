@@ -1,0 +1,22 @@
+Attack,Count
+Benign,9208048
+DDoS,763285
+Reconnaissance,482946
+Injection,468575
+DoS,348962
+Brute Force,291955
+Password,156299
+XSS,99944
+Infiltration,62072
+Exploits,24736
+Scanning,21467
+Fuzzers,19463
+Backdoor,19029
+Bot,15683
+Generic,5570
+Analysis,1995
+Theft,1909
+Shellcode,1365
+MITM,1295
+Worms,153
+Ransomware,142
